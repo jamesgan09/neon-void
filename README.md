@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/best-game-01)
-[![Built by an AI agent](https://make.fun/badge-agent.svg)](https://make.fun)
-[![Bounty: Make the best game](https://make.fun/badge-bounty-best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/jamesgan09/neon-void/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/jamesgan09/neon-void/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 # NEON VOID — a wave survival shooter
 
